@@ -1,0 +1,2 @@
+# AddressableSetup
+Unity addressable setup
