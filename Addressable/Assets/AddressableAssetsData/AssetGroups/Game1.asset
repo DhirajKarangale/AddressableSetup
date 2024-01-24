@@ -17,20 +17,20 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 837f835b1ae9bd64e82adc7a908da51e
   m_SerializeEntries:
+  - m_GUID: bc7939d3f71029647acc2b56ea9c902f
+    m_Address: Game1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45d5ea971163dcc46b859c4b90e3d270
+    m_Address: Game2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: 8d427de2891c2034a93527083ad130be
-    m_Address: Assets/Prefabs/Triangle.prefab
+    m_Address: Triangle
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: f79495d594235e04dbfd519cf341dd63
-    m_Address: Assets/Material/Triangle.mat
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 719d2e463d7503b40b62c63ec0a8b70b
-    m_Address: Assets/Scenes/Game2.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: b6a08e8fc2b4f084b9068c6b2385964b
-    m_Address: Assets/Scenes/Game.unity
+  - m_GUID: fef8ca30421df3d41af48b8f4e23fb31
+    m_Address: Square
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0

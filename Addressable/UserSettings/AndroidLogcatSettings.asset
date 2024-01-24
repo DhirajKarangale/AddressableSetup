@@ -1,144 +1,42 @@
 {
-    "m_SelectedDeviceId": "4a74c31d",
+    "m_SelectedDeviceId": "1486e7280706",
     "m_SelectedPackage": {
-        "deviceId": "4a74c31d",
-        "name": "com.DefaultCompany.abc",
-        "processId": 22326,
+        "deviceId": "1486e7280706",
+        "name": "com.hundred.xx",
+        "processId": 20546,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 21338,
-            "exited": true
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 28672,
-            "exited": true
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 28861,
-            "exited": true
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 29616,
-            "exited": true
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.miui.home",
-            "processId": 2874,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 31247,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 11774,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 12247,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 12666,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 13081,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 13556,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 13877,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 14418,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 16138,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 16377,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 18585,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 20245,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 20925,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 21194,
-            "exited": false
-        },
-        {
-            "deviceId": "4a74c31d",
-            "name": "com.DefaultCompany.abc",
-            "processId": 22326,
-            "exited": false
-        },
-        {
             "deviceId": "1486e7280706",
-            "name": "com.miui.home",
-            "processId": 2397,
+            "name": "com.hundred.xx",
+            "processId": 3525,
             "exited": true
         },
         {
             "deviceId": "1486e7280706",
-            "name": "com.android.settings",
-            "processId": 12330,
+            "name": "com.hundred.xx",
+            "processId": 10454,
             "exited": true
+        },
+        {
+            "deviceId": "1486e7280706",
+            "name": "com.hundred.xx",
+            "processId": 14793,
+            "exited": true
+        },
+        {
+            "deviceId": "1486e7280706",
+            "name": "com.hundred.xx",
+            "processId": 17996,
+            "exited": true
+        },
+        {
+            "deviceId": "1486e7280706",
+            "name": "com.hundred.xx",
+            "processId": 20546,
+            "exited": false
         }
     ],
     "m_Tags": {
